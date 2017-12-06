@@ -8,6 +8,10 @@ date: "2017-06-08 15:19:15 +0900"
 I don't know which direction is better
 
 code-04
+IOT tech
+1. context recognition 
+2. object intelligence learning
+3.
 ■사물인터넷 기술■
 ㅇ 상황인지처리 기술
 ㅇ 사물지능학습 기술
